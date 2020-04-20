@@ -1,2 +1,2 @@
-# twitter-clone
-this is a simple twitter clone project
+# Sample Projects
+this is a simple projects for practice and learning.
