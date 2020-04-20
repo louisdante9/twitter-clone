@@ -1,2 +1,2 @@
 # Sample Projects
-this is a simple projects for practice and learning.
+these are simple projects for practice and learning.
